@@ -1,0 +1,39 @@
+Users\Kevin Bowersox\Desktop\Development\InfiniteSkills\Courses\Spring Data\Lessons\0500\0509 Transversing Properties\Transversing Nested Properties
+   │
+   ├[.settings]
+   │   │
+   │   ├org.eclipse.jdt.core
+   │   └org.eclipse.m2e.core
+   ├[src]
+   │   │
+   │   ├[main]
+   │   │   │
+   │   │   ├[java]
+   │   │   │   │
+   │   │   │   └[com]
+   │   │   │       │
+   │   │   │       └[oreilly]
+   │   │   │           │
+   │   │   │           └[sdata]
+   │   │   │               │
+   │   │   │               ├Application
+   │   │   │               ├Author
+   │   │   │               ├Book
+   │   │   │               ├BookRepository
+   │   │   │               ├BookService
+   │   │   │               ├BookUtil
+   │   │   │               └ReadOnlyRepository
+   │   │   └[resources]
+   │   │       │
+   │   │       ├application-context
+   │   │       ├init
+   │   │       └log4j
+   │   └[test]
+   │       │
+   │       ├[java]
+   │       └[resources]
+   ├
+   ├
+   ├
+   ├manfiest
+   └pom
