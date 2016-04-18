@@ -11,7 +11,7 @@ public class Application {
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("application-context.xml");
 		BookRepository repository = context.getBean(BookRepository.class);	
 		
-		for(Book b:repository.findByPageCountGreaterThanEqual(300)){
+		for(Book b:repository.queryOne()){
 			System.out.println(b);
 		}
 	}
